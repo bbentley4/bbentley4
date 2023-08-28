@@ -1,6 +1,16 @@
 - 👋 Hi, I’m @bbentley4 (Brenna Bentley)
+  - Junior CompSci student at University of Tennessee, Knoxville 
 - 👀 I’m interested in applying mathematical reasoning into programming.
-- 🌱 I’m currently learning HTML, CSS, Javascript, and increasing my understanding of data structures in C++.
+- 🌱 What I'm learning and/or have minimal experience with:
+  - HTML, Javascript, CSS/Sass, SQL
+  - React, MSSQL
+  - XCode, Eclipse
+  - Team City, Octopus
+- 🌟 What I'm experienced in:
+  - C,C#,C++
+  - .NET
+  - VSCode, Visual Studio, vim, nano
+  - JIRA, Bitbucket, Github, Confluence
 - 💞️ I’m looking to intern/job shadow/collaborate any and everything to learn my likes/dislikes and my strengths and weaknesses in programming.
 - 📫 How to reach me: My LinkedIn is linked on my profile and my email is brennafierro@gmail.com. 
 
