@@ -15,7 +15,7 @@
   - VSCode, Visual Studio, vim, nano
   - JIRA, Bitbucket, Github, Confluence
 ## 📫 How to reach me: 
-  - [LinkedIn](https://www.linkedin.com/in/brenna-bentley-40150910a/) (preferred over email)
+  - [LinkedIn](https://www.linkedin.com/in/brenna-bentley-40150910a/) (preferred)
   - Email: brennafierro@gmail.com. 
 
 <!---
