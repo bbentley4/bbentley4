@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @bbentley4 (Brenna Bentley)
 ## About Me
-- 🎓Junior CompSci student at University of Tennessee, Knoxville 
+- 🎓Senior CompSci student at University of Tennessee, Knoxville 
 - 👀 I’m interested in applying mathematical reasoning into programming.
 - 💞️ I’m looking to intern/job shadow/collaborate any and everything to continue learning my likes/dislikes and work on my strengths/weaknesses in programming.
 ## Skills
@@ -10,7 +10,7 @@
   - XCode, Eclipse
   - Team City, Octopus
 - 🌟 What I'm experienced in:
-  - C,C#,C++
+  - C,C#,C++, Python
   - .NET
   - VSCode, Visual Studio, vim, nano
   - JIRA, Bitbucket, Github, Confluence
