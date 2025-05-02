@@ -9,7 +9,7 @@
   - Environments & Frameworks: .NET, Mesa (ABM), Selenium, BeautifulSoup, Git CLI
   - IDEs: VSCode, Visual Studio, vim, nano
   - Software Development Workflow: JIRA, Bitbucket, Github, Confluence
-- 🌱 What I have **some** experience in:
+- 🌱 What I'm exploring and open to working with:
   - Languages: HTML, CSS/Sass, SQL, ARM assembly, x86 assembly 
   - Environments & Frameworks: React, React Native, MSSQL
   - IDEs: XCode, Eclipse
