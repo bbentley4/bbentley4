@@ -1,8 +1,8 @@
 # 👋 Hi, I’m @bbentley4 (Brenna Bentley)
 ## About Me
-- 🎓Senior CompSci student at University of Tennessee, Knoxville 
-- 👀 I’m interested in applying mathematical reasoning into programming.
-- 💞️ I’m looking to intern/job shadow/collaborate any and everything to continue learning my likes/dislikes and work on my strengths/weaknesses in programming.
+- 🧡 May 2025 Computer Science (University of Tennessee, Knoxville)
+- 👀 I’m **most** interested in applying mathematical reasoning and logic into programming.
+- 💞️ I’m looking for a software engineer role remotely or locally in Dallas, TX.
 ## Skills
 - 🌟 What I'm experienced in:
   - Languages: C, C#, C++, Python, Java, Javascript
