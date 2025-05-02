@@ -4,16 +4,16 @@
 - 👀 I’m interested in applying mathematical reasoning into programming.
 - 💞️ I’m looking to intern/job shadow/collaborate any and everything to continue learning my likes/dislikes and work on my strengths/weaknesses in programming.
 ## Skills
-- 🌱 What I'm learning and/or have minimal experience with:
-  - HTML, Javascript, CSS/Sass, SQL
-  - React, MSSQL
-  - XCode, Eclipse
-  - Team City, Octopus
 - 🌟 What I'm experienced in:
-  - C,C#,C++, Python
-  - .NET
-  - VSCode, Visual Studio, vim, nano
-  - JIRA, Bitbucket, Github, Confluence
+  - Languages: C, C#, C++, Python, Java, Javascript
+  - Environments & Frameworks: .NET, Mesa (ABM), Selenium, BeautifulSoup, Git CLI
+  - IDEs: VSCode, Visual Studio, vim, nano
+  - Software Development Workflow: JIRA, Bitbucket, Github, Confluence
+- 🌱 What I have **some** experience in:
+  - Languages: HTML, CSS/Sass, SQL, ARM assembly, x86 assembly 
+  - Environments & Frameworks: React, React Native, MSSQL
+  - IDEs: XCode, Eclipse
+  - Deployment: Team City, Octopus
 ## 📫 How to reach me: 
   - [LinkedIn](https://www.linkedin.com/in/brenna-bentley)
   - Email: brennabentley@sudomail.com
